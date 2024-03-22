@@ -29,7 +29,7 @@ export default function blog() {
                 loading="lazy"
               />
             </div>
-            <Link href="#">
+            <Link href="/blog/abc">
             <div className="font-bold text-xl mb-2 hover:text-green-400 cursor-pointer">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime,
               eos!
@@ -56,7 +56,7 @@ export default function blog() {
               />
             </div>
             
-            <Link href="#">
+            <Link href="/blog/abc">
             <div className="font-bold text-xl mb-2 hover:text-green-400 cursor-pointer">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime,
               eos!
@@ -83,7 +83,7 @@ export default function blog() {
               />
             </div>
             
-            <Link href="#">
+            <Link href="/blog/abc">
             <div className="font-bold text-xl mb-2 hover:text-green-400 cursor-pointer">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime,
               eos!
