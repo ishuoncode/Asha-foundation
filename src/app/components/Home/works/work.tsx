@@ -48,7 +48,7 @@ export default function work() {
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
                 eiusmod tempor incididunt ut labore et dolore magna aliqua.
               </div>
-              <Button text="Donate Now" />
+              <Button text="Donate Now" goto="/campings/abc"/>
             </div>
           </Link>
           <Link href={"/campings/abc"}>
@@ -82,7 +82,7 @@ export default function work() {
                 eiusmod tempor incididunt ut labore et dolore magna aliqua.
               </div>
 
-              <Button text="Donate Now" />
+              <Button text="Donate Now" goto="/donate"/>
 
             </div>
           </Link>
@@ -117,7 +117,7 @@ export default function work() {
                 eiusmod tempor incididunt ut labore et dolore magna aliqua.
               </div>
 
-              <Button text="Donate Now" />
+              <Button text="Donate Now" goto="/donate"/>
 
             </div>
           </Link>

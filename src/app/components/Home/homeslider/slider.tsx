@@ -57,7 +57,7 @@ export default function Slider() {
               Save The Children 
             </p>
            
-            <Button text="Donate"/>
+            <Button text="Donate" goto="/donate"/>
           </div>
           
         </SwiperSlide>
@@ -78,7 +78,7 @@ export default function Slider() {
             Volunteer 
               
             </p>
-            <Button text="Volunteer"/>
+            <Button text="Volunteer" goto=""/>
           </div>
         </SwiperSlide>
         
