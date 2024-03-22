@@ -30,10 +30,10 @@ export default function blog() {
               />
             </div>
             <Link href="/blog/abc">
-            <div className="font-bold text-xl mb-2 hover:text-green-400 cursor-pointer">
+            <p className="font-bold text-xl mb-2 hover:text-green-400 cursor-pointer">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime,
               eos!
-            </div>
+            </p>
             </Link>
             <div className="mb-2"> Created At : 18 March 2024 </div>
 
@@ -57,10 +57,10 @@ export default function blog() {
             </div>
             
             <Link href="/blog/abc">
-            <div className="font-bold text-xl mb-2 hover:text-green-400 cursor-pointer">
+            <p className="font-bold text-xl mb-2 hover:text-green-400 cursor-pointer">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime,
               eos!
-            </div>
+            </p>
             </Link>
             <div className="mb-2"> Created At : 18 March 2024 </div>
 
@@ -84,10 +84,10 @@ export default function blog() {
             </div>
             
             <Link href="/blog/abc">
-            <div className="font-bold text-xl mb-2 hover:text-green-400 cursor-pointer">
+            <p className="font-bold text-xl mb-2 hover:text-green-400 cursor-pointer">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime,
               eos!
-            </div>
+            </p>
             </Link>
             <div className="mb-2"> Created At : 18 March 2024 </div>
 
